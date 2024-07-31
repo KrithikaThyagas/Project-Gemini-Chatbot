@@ -1,0 +1,12 @@
+langchain
+langchain-community
+PyPDF2
+streamlit
+pinecone-client
+google-generativeai
+python-dotenv
+langchain_google_genai
+torch 
+torchvision 
+torchaudio
+
