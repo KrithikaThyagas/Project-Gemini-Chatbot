@@ -18,7 +18,7 @@ Steps :
 
    ```bash
    git clone https://github.com/your-username/Project-Gemini-Chatbot.git
-   cd chat-pdf-gemini
+   cd Project-Gemini-Chatbot
    
 2. Install the required packages:
 
